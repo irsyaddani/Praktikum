@@ -93,6 +93,7 @@ public class ClassY extends Class {
 ```
 #### Jawab
 
+Source Code:
 1. class Class
 ```
 package UTS_OOP.Soal3;
@@ -132,7 +133,7 @@ public class ClassMain {
     }
 }
 ```
-
+Semua atribut dari class Class yaitu int a, int x, dan int hitung() akan diwariskan ke class ClassY. Output akan menghasilkan 50 yang berasal dari penghitungan dari method hitungY() yang mana akan mengalikan hasil dari method hitung() dengan b.  Method hitung() memiliki nilai kembalian x + 5 * a yang hasilnya adalah 10.
 
 ## Soal 4: Class Mahasiswa dengan Constructor
 Dalam class Mahasiswa, lengkapi code dengan:
